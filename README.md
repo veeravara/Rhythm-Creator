@@ -1,2 +1,3 @@
 # Rhythm-Creator <br>
-Unleash your musical creativity with this innovative beat maker, allowing you to craft mesmerizing rhythms and melodies that sync perfectly.
+Unleash your musical creativity with this innovative beat maker, allowing you to craft mesmerizing rhythms and melodies that sync perfectly.<br>
+https://veeravara.github.io/Rhythm-Creator/
